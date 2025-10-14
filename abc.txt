@@ -6,6 +6,7 @@
 }
 
 {
+  "student_roll": 1,
   "student_name": "kbc",
   "student_class": "1",
   "student_contact": 2,
